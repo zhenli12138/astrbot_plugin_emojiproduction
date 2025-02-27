@@ -1,6 +1,6 @@
 name: astrbot_plugin_emojiproduction # 这是你的插件的唯一识别名。
-desc: gif表情包制作【/表情包制作】 # 插件简短描述
+desc: 本插件合并至moreapi，请下载moreapi插件！本插件不再使用
 help:  # 插件的帮助信息
-version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+version: v0.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: 达莉娅 # 作者
 repo: https://github.com/zhenli12138/astrbot_plugin_emojiproduction
